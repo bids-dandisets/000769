@@ -1,21 +1,21 @@
-participant_id	species	sex
-sub-1203384279	Homo sapiens	M
-sub-1211237280	Homo sapiens	M
-sub-1213383385	Homo sapiens	F
-sub-1214619242	Homo sapiens	M
-sub-1215761491	Homo sapiens	F
-sub-1216137954	Homo sapiens	F
-sub-1219228309	Homo sapiens	F
-sub-1221154087	Homo sapiens	M
-sub-1226798098	Homo sapiens	M
-sub-1230941843	Homo sapiens	M
-sub-1245540827	Homo sapiens	F
-sub-1250755141	Homo sapiens	M
-sub-1260690332	Homo sapiens	M
-sub-1260954683	Homo sapiens	M
-sub-1266582886	Homo sapiens	M
-sub-1269274954	Homo sapiens	F
-sub-1282284113	Homo sapiens	F
-sub-1283839697	Homo sapiens	U
-sub-1294084014	Homo sapiens	M
-sub-1295011705	Homo sapiens	M
+participant_id	original_participant_id	species	sex
+sub-1203384279	sub-1203384279	Homo sapiens	M
+sub-1211237280	sub-1211237280	Homo sapiens	M
+sub-1213383385	sub-1213383385	Homo sapiens	F
+sub-1214619242	sub-1214619242	Homo sapiens	M
+sub-1215761491	sub-1215761491	Homo sapiens	F
+sub-1216137954	sub-1216137954	Homo sapiens	F
+sub-1219228309	sub-1219228309	Homo sapiens	F
+sub-1221154087	sub-1221154087	Homo sapiens	M
+sub-1226798098	sub-1226798098	Homo sapiens	M
+sub-1230941843	sub-1230941843	Homo sapiens	M
+sub-1245540827	sub-1245540827	Homo sapiens	F
+sub-1250755141	sub-1250755141	Homo sapiens	M
+sub-1260690332	sub-1260690332	Homo sapiens	M
+sub-1260954683	sub-1260954683	Homo sapiens	M
+sub-1266582886	sub-1266582886	Homo sapiens	M
+sub-1269274954	sub-1269274954	Homo sapiens	F
+sub-1282284113	sub-1282284113	Homo sapiens	F
+sub-1283839697	sub-1283839697	Homo sapiens	U
+sub-1294084014	sub-1294084014	Homo sapiens	M
+sub-1295011705	sub-1295011705	Homo sapiens	M
