@@ -4,7 +4,13 @@
     "HEDVersion": "8.3.0",
     "Description": "HMBA Lein PatchSeq upload (human) (Q4 2023)",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Soliman, Sherif",
+        "Lee, Brian",
+        "Kalmbach, Brian",
+        "Dalley, Rachel",
+        "Lein, Ed"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
